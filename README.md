@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kelvin, I'm a Bitcoin Developer.
+My name is Kelvin, I'm a Blockchain Developer.
 
 - 🔭 I’m currently working on Blockchain Technologies.
 - 🌱 I’m currently learning Devops using Docker/Kubernetes and CI/CD Best practices.
