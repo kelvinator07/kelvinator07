@@ -7,6 +7,6 @@ My name is Kelvin, I'm a Blockchain Developer.
 - 👯 I’m looking to collaborate on exciting projects.
 - 💬 Ask me about mentorship.
 - 📫 How to reach me: kelvinator4leo@gmail.com
-- ⚡ Fun fact: I'm a Copy/Paste Developer.
+- ⚡ Fun fact: I learn something new everyday.
 
 Thanks for checking out my profile.
