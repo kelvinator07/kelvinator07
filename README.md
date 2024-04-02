@@ -3,7 +3,7 @@
 My name is Kelvin, I'm a Blockchain Developer.
 
 - 🔭 I’m currently working on Blockchain Technologies.
-- 🌱 I’m currently learning Devops using Docker/Kubernetes and CI/CD Best practices.
+- 🌱 I’m currently improving my Devops skills using Docker/Kubernetes and CI/CD Best practices.
 - 👯 I’m looking to collaborate on exciting projects.
 - 💬 Ask me about mentorship.
 - 📫 How to reach me: kelvinator4leo@gmail.com
